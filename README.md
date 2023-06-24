@@ -17,7 +17,7 @@ I have been learning to code for 1 year. I started with layout and gradually sta
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
                     
-                  ### Socials
+                  
                   
                   
                 <p align="left">
