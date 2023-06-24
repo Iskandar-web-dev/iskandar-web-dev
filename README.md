@@ -11,6 +11,8 @@ I have been learning to code for 1 year. I started with layout and gradually sta
 * 🧠  I'm learning JS, JSON
 * ⚡  "Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry"
 
+<a href="https://www.github.com/iskandar-web-dev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/iskandar-web-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
@@ -23,8 +25,10 @@ I have been learning to code for 1 year. I started with layout and gradually sta
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/frezzzze#1774" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/iskandar-web-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/frezzzee.outsidee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
-
+### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/iskandar-web-dev"><img src="https://github-readme-stats.vercel.app/api?username=iskandar-web-dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iskandar-web-dev's GitHub stats" /></a>
+<a href="http://www.github.com/iskandar-web-dev"><img src="https://github-readme-stats.vercel.app/api?username=iskandar-web-dev&show_icons=true&hide=prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iskandar-web-dev's GitHub stats" /></a>
+
+<a href="https://github.com/iskandar-web-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskandar-web-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
